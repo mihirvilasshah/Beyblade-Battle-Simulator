@@ -1,0 +1,233 @@
+[
+  {
+    "id": "main-blade-brave",
+    "category": "mainBlade",
+    "name": "Brave",
+    "type": "attack",
+    "weight": 31.2,
+    "stats": {
+      "attack": 40,
+      "defense": 10,
+      "stamina": 10
+    },
+    "debutProductCode": "CX-01",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Main_Blade_-_Brave",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Main_Blade_-_Brave",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "main-blade-arc",
+    "category": "mainBlade",
+    "name": "Arc",
+    "type": "stamina",
+    "weight": 29.2,
+    "stats": {
+      "attack": 10,
+      "defense": 10,
+      "stamina": 40
+    },
+    "debutProductCode": "CX-02",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Main_Blade_-_Arc",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Main_Blade_-_Arc",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "main-blade-dark",
+    "category": "mainBlade",
+    "name": "Dark",
+    "type": "defense",
+    "weight": 30.3,
+    "stats": {
+      "attack": 10,
+      "defense": 40,
+      "stamina": 10
+    },
+    "debutProductCode": "CX-03",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Main_Blade_-_Dark",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Main_Blade_-_Dark",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "main-blade-reaper",
+    "category": "mainBlade",
+    "name": "Reaper",
+    "type": "balance",
+    "weight": 29,
+    "stats": {
+      "attack": 25,
+      "defense": 10,
+      "stamina": 25
+    },
+    "debutProductCode": "CX-05",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Main_Blade_-_Reaper",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Main_Blade_-_Reaper",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "main-blade-eclipse",
+    "category": "mainBlade",
+    "name": "Eclipse",
+    "type": "balance",
+    "weight": 32.3,
+    "stats": {
+      "attack": null,
+      "defense": null,
+      "stamina": null
+    },
+    "debutProductCode": "CX-09",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Main_Blade_-_Eclipse",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Main_Blade_-_Eclipse",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "main-blade-hunt",
+    "category": "mainBlade",
+    "name": "Hunt",
+    "type": "stamina",
+    "weight": 31.6,
+    "stats": {
+      "attack": 20,
+      "defense": 10,
+      "stamina": 30
+    },
+    "debutProductCode": "CX-10",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Main_Blade_-_Hunt",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Main_Blade_-_Hunt",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "main-blade-flare",
+    "category": "mainBlade",
+    "name": "Flare",
+    "type": "defense",
+    "weight": 31.1,
+    "stats": {
+      "attack": 25,
+      "defense": 40,
+      "stamina": 10
+    },
+    "debutProductCode": "CX-12",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Main_Blade_-_Flare",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Main_Blade_-_Flare",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  }
+]

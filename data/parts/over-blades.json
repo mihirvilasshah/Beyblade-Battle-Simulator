@@ -1,0 +1,104 @@
+[
+  {
+    "id": "over-blade-break",
+    "category": "overBlade",
+    "name": "Break",
+    "abbreviation": "B",
+    "type": "attack",
+    "weight": 3.8,
+    "stats": {
+      "attack": 10,
+      "defense": 5,
+      "stamina": 5
+    },
+    "debutProductCode": "CX-13",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Over_Blade_-_Break",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Over_Blade_-_Break",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "over-blade-guard",
+    "category": "overBlade",
+    "name": "Guard",
+    "abbreviation": "G",
+    "type": "defense",
+    "weight": 3.3,
+    "stats": {
+      "attack": 5,
+      "defense": 10,
+      "stamina": 5
+    },
+    "debutProductCode": "CX-14",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Over_Blade_-_Guard",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Over_Blade_-_Guard",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "over-blade-flow",
+    "category": "overBlade",
+    "name": "Flow",
+    "abbreviation": "F",
+    "type": "stamina",
+    "weight": 3.7,
+    "stats": {
+      "attack": 5,
+      "defense": 5,
+      "stamina": 10
+    },
+    "debutProductCode": "CX-15",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Over_Blade_-_Flow",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Over_Blade_-_Flow",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  }
+]

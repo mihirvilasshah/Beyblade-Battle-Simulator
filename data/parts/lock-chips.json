@@ -1,0 +1,332 @@
+[
+  {
+    "id": "lock-chip-dran",
+    "category": "lockChip",
+    "name": "Dran",
+    "type": null,
+    "weight": 1.7,
+    "stats": {
+      "attack": null,
+      "defense": null,
+      "stamina": null
+    },
+    "debutProductCode": "CX-01",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Dran",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Dran",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-wizard",
+    "category": "lockChip",
+    "name": "Wizard",
+    "type": null,
+    "weight": 1.7,
+    "stats": {
+      "attack": null,
+      "defense": null,
+      "stamina": null
+    },
+    "debutProductCode": "CX-02",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Wizard",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Wizard",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-perseus",
+    "category": "lockChip",
+    "name": "Perseus",
+    "type": null,
+    "weight": 1.7,
+    "stats": {
+      "attack": null,
+      "defense": null,
+      "stamina": null
+    },
+    "debutProductCode": "CX-03",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Perseus",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Perseus",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-hells",
+    "category": "lockChip",
+    "name": "Hells",
+    "type": null,
+    "weight": 1.7,
+    "stats": {
+      "attack": null,
+      "defense": null,
+      "stamina": null
+    },
+    "debutProductCode": "CX-05",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Hells",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Hells",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-sol",
+    "category": "lockChip",
+    "name": "Sol",
+    "type": null,
+    "weight": 1.7,
+    "stats": {
+      "attack": null,
+      "defense": null,
+      "stamina": null
+    },
+    "debutProductCode": "CX-09",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Sol",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Sol",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-wolf",
+    "category": "lockChip",
+    "name": "Wolf",
+    "type": null,
+    "weight": 1.7,
+    "stats": {
+      "attack": null,
+      "defense": null,
+      "stamina": null
+    },
+    "debutProductCode": "CX-10",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Wolf",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Wolf",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-phoenix",
+    "category": "lockChip",
+    "name": "Phoenix",
+    "type": null,
+    "weight": 1.7,
+    "stats": {
+      "attack": null,
+      "defense": null,
+      "stamina": null
+    },
+    "debutProductCode": "CX-12",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Phoenix",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Phoenix",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-bahamut",
+    "category": "lockChip",
+    "name": "Bahamut",
+    "type": null,
+    "weight": 1.7,
+    "stats": {
+      "attack": null,
+      "defense": null,
+      "stamina": null
+    },
+    "debutProductCode": "CX-13",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Bahamut",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Bahamut",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-knight",
+    "category": "lockChip",
+    "name": "Knight",
+    "type": null,
+    "weight": 1.7,
+    "stats": {
+      "attack": null,
+      "defense": null,
+      "stamina": null
+    },
+    "debutProductCode": "CX-14",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Knight",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Knight",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "lock-chip-ragna",
+    "category": "lockChip",
+    "name": "Ragna",
+    "type": null,
+    "weight": 1.7,
+    "stats": {
+      "attack": null,
+      "defense": null,
+      "stamina": null
+    },
+    "debutProductCode": "CX-15",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Ragna",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Lock_Chip_-_Ragna",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  }
+]

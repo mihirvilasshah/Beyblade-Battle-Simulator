@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "bit-flat",
+    "category": "bit",
+    "name": "Flat",
+    "abbreviation": "F",
+    "type": "attack",
+    "weight": 2.2,
+    "stats": {
+      "attack": 40,
+      "defense": 15,
+      "stamina": 10,
+      "dash": 35,
+      "burstResistance": 80
+    },
+    "debutProductCode": "BX-01",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Flat",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Flat",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-taper",
+    "category": "bit",
+    "name": "Taper",
+    "abbreviation": "T",
+    "type": "balance",
+    "weight": 2.2,
+    "stats": {
+      "attack": 35,
+      "defense": 20,
+      "stamina": 20,
+      "dash": 25,
+      "burstResistance": 80
+    },
+    "debutProductCode": "BX-02",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Taper",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Taper",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-ball",
+    "category": "bit",
+    "name": "Ball",
+    "abbreviation": "B",
+    "type": "stamina",
+    "weight": 2.1,
+    "stats": {
+      "attack": 15,
+      "defense": 25,
+      "stamina": 50,
+      "dash": 10,
+      "burstResistance": 30
+    },
+    "debutProductCode": "BX-03",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Ball",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Ball",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-needle",
+    "category": "bit",
+    "name": "Needle",
+    "abbreviation": "N",
+    "type": "defense",
+    "weight": 2,
+    "stats": {
+      "attack": 10,
+      "defense": 50,
+      "stamina": 30,
+      "dash": 10,
+      "burstResistance": 30
+    },
+    "debutProductCode": "BX-04",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Needle",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Needle",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-high-needle",
+    "category": "bit",
+    "name": "High Needle",
+    "abbreviation": "HN",
+    "type": "defense",
+    "weight": 2.2,
+    "stats": {
+      "attack": 15,
+      "defense": 55,
+      "stamina": 20,
+      "dash": 10,
+      "burstResistance": 30
+    },
+    "debutProductCode": "BX-13",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_High_Needle",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_High_Needle",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-low-flat",
+    "category": "bit",
+    "name": "Low Flat",
+    "abbreviation": "LF",
+    "type": "attack",
+    "weight": 2.1,
+    "stats": {
+      "attack": 45,
+      "defense": 5,
+      "stamina": 10,
+      "dash": 40,
+      "burstResistance": 80
+    },
+    "debutProductCode": "BX-14",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Low_Flat",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Low_Flat",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-point",
+    "category": "bit",
+    "name": "Point",
+    "abbreviation": "P",
+    "type": "balance",
+    "weight": 2.2,
+    "stats": {
+      "attack": 25,
+      "defense": 25,
+      "stamina": 25,
+      "dash": 25,
+      "burstResistance": 80
+    },
+    "debutProductCode": "BX-15",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Point",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Point",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-spike",
+    "category": "bit",
+    "name": "Spike",
+    "abbreviation": "S",
+    "type": "defense",
+    "weight": 2,
+    "stats": {
+      "attack": 10,
+      "defense": 45,
+      "stamina": 35,
+      "dash": 10,
+      "burstResistance": 30
+    },
+    "debutProductCode": "BX-19",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Spike",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Spike",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-rush",
+    "category": "bit",
+    "name": "Rush",
+    "abbreviation": "R",
+    "type": "attack",
+    "weight": 2.1,
+    "stats": {
+      "attack": 40,
+      "defense": 10,
+      "stamina": 20,
+      "dash": 30,
+      "burstResistance": 80
+    },
+    "debutProductCode": "BX-20",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Rush",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Rush",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-high-taper",
+    "category": "bit",
+    "name": "High Taper",
+    "abbreviation": "HT",
+    "type": "balance",
+    "weight": 2.2,
+    "stats": {
+      "attack": 30,
+      "defense": 25,
+      "stamina": 20,
+      "dash": 25,
+      "burstResistance": 80
+    },
+    "debutProductCode": "BX-21",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_High_Taper",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_High_Taper",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-gear-flat",
+    "category": "bit",
+    "name": "Gear Flat",
+    "abbreviation": "GF",
+    "type": "attack",
+    "weight": 2.3,
+    "stats": {
+      "attack": 50,
+      "defense": 5,
+      "stamina": 5,
+      "dash": 40,
+      "burstResistance": 80
+    },
+    "debutProductCode": "BX-23",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Gear_Flat",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Gear_Flat",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-gear-point",
+    "category": "bit",
+    "name": "Gear Point",
+    "abbreviation": "GP",
+    "type": "balance",
+    "weight": 2.3,
+    "stats": {
+      "attack": 30,
+      "defense": 25,
+      "stamina": 15,
+      "dash": 30,
+      "burstResistance": 80
+    },
+    "debutProductCode": "BX-26",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Gear_Point",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Gear_Point",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-quake",
+    "category": "bit",
+    "name": "Quake",
+    "abbreviation": "Q",
+    "type": "attack",
+    "weight": 2.2,
+    "stats": {
+      "attack": 55,
+      "defense": 15,
+      "stamina": 5,
+      "dash": 25,
+      "burstResistance": 80
+    },
+    "debutProductCode": "BX-31",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Quake",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Quake",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-unite",
+    "category": "bit",
+    "name": "Unite",
+    "abbreviation": "U",
+    "type": "balance",
+    "weight": 2.1,
+    "stats": {
+      "attack": 25,
+      "defense": 25,
+      "stamina": 30,
+      "dash": 20,
+      "burstResistance": 80
+    },
+    "debutProductCode": "BX-33",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Unite",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Unite",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-cyclone",
+    "category": "bit",
+    "name": "Cyclone",
+    "abbreviation": "C",
+    "type": "attack",
+    "weight": 2.1,
+    "stats": {
+      "attack": 40,
+      "defense": 5,
+      "stamina": 10,
+      "dash": 45,
+      "burstResistance": 80
+    },
+    "debutProductCode": "BX-34",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Cyclone",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Cyclone",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-dot",
+    "category": "bit",
+    "name": "Dot",
+    "abbreviation": "D",
+    "type": "defense",
+    "weight": 2,
+    "stats": {
+      "attack": 10,
+      "defense": 55,
+      "stamina": 25,
+      "dash": 10,
+      "burstResistance": 30
+    },
+    "debutProductCode": "BX-35",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Dot",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Dot",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-trans-point",
+    "category": "bit",
+    "name": "Trans Point",
+    "abbreviation": "TP",
+    "type": "balance",
+    "weight": 2.2,
+    "stats": {
+      "attack": 35,
+      "defense": 25,
+      "stamina": 25,
+      "dash": 15,
+      "burstResistance": 80
+    },
+    "debutProductCode": "BX-38",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Trans_Point",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Trans_Point",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-rubber-accel",
+    "category": "bit",
+    "name": "Rubber Accel",
+    "abbreviation": "RA",
+    "type": "attack",
+    "weight": 3.1,
+    "stats": {
+      "attack": null,
+      "defense": null,
+      "stamina": null,
+      "dash": null,
+      "burstResistance": null
+    },
+    "debutProductCode": "UX-10",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Rubber_Accel",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Rubber_Accel",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-bound-spike",
+    "category": "bit",
+    "name": "Bound Spike",
+    "abbreviation": "BS",
+    "type": "defense",
+    "weight": 2,
+    "stats": {
+      "attack": 5,
+      "defense": 60,
+      "stamina": 30,
+      "dash": 5,
+      "burstResistance": 30
+    },
+    "debutProductCode": "UX-10",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Bound_Spike",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Bound_Spike",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-merge",
+    "category": "bit",
+    "name": "Merge",
+    "abbreviation": "M",
+    "type": "balance",
+    "weight": 3.4,
+    "stats": {
+      "attack": 50,
+      "defense": 20,
+      "stamina": 10,
+      "dash": 20,
+      "burstResistance": 80
+    },
+    "debutProductCode": "BX-45",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Merge",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Merge",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-free-flat",
+    "category": "bit",
+    "name": "Free Flat",
+    "abbreviation": "FF",
+    "type": "attack",
+    "weight": null,
+    "stats": {
+      "attack": 40,
+      "defense": 15,
+      "stamina": 15,
+      "dash": 30,
+      "burstResistance": 80
+    },
+    "debutProductCode": "BX-49",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Free_Flat",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Free_Flat",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-accel",
+    "category": "bit",
+    "name": "Accel",
+    "abbreviation": "A",
+    "type": "attack",
+    "weight": 2.6,
+    "stats": {
+      "attack": 40,
+      "defense": 10,
+      "stamina": 10,
+      "dash": 40,
+      "burstResistance": 80
+    },
+    "debutProductCode": "UX-01",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Accel",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Accel",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-hexa",
+    "category": "bit",
+    "name": "Hexa",
+    "abbreviation": "H",
+    "type": "balance",
+    "weight": 2.6,
+    "stats": {
+      "attack": 30,
+      "defense": 35,
+      "stamina": 20,
+      "dash": 15,
+      "burstResistance": 80
+    },
+    "debutProductCode": "UX-02",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Hexa",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Hexa",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-disk-ball",
+    "category": "bit",
+    "name": "Disk Ball",
+    "abbreviation": "DB",
+    "type": "stamina",
+    "weight": 3.2,
+    "stats": {
+      "attack": 15,
+      "defense": 20,
+      "stamina": 55,
+      "dash": 10,
+      "burstResistance": 30
+    },
+    "debutProductCode": "UX-03",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Disk_Ball",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Disk_Ball",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-metal-needle",
+    "category": "bit",
+    "name": "Metal Needle",
+    "abbreviation": "MN",
+    "type": "defense",
+    "weight": 2.8,
+    "stats": {
+      "attack": 8,
+      "defense": 57,
+      "stamina": 30,
+      "dash": 5,
+      "burstResistance": 30
+    },
+    "debutProductCode": "UX-05",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Metal_Needle",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Metal_Needle",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-gear-needle",
+    "category": "bit",
+    "name": "Gear Needle",
+    "abbreviation": "GN",
+    "type": "defense",
+    "weight": 2,
+    "stats": {
+      "attack": 20,
+      "defense": 40,
+      "stamina": 10,
+      "dash": 30,
+      "burstResistance": 30
+    },
+    "debutProductCode": "BX-27",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Gear_Needle",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Gear_Needle",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-glide",
+    "category": "bit",
+    "name": "Glide",
+    "abbreviation": "G",
+    "type": "stamina",
+    "weight": 2.5,
+    "stats": {
+      "attack": 20,
+      "defense": 10,
+      "stamina": 55,
+      "dash": 15,
+      "burstResistance": 30
+    },
+    "debutProductCode": "UX-07",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Glide",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Glide",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-free-ball",
+    "category": "bit",
+    "name": "Free Ball",
+    "abbreviation": "FB",
+    "type": "stamina",
+    "weight": 1.9,
+    "stats": {
+      "attack": 10,
+      "defense": 25,
+      "stamina": 60,
+      "dash": 5,
+      "burstResistance": 30
+    },
+    "debutProductCode": "UX-08",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Free_Ball",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Free_Ball",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-level",
+    "category": "bit",
+    "name": "Level",
+    "abbreviation": "L",
+    "type": "attack",
+    "weight": 2.7,
+    "stats": {
+      "attack": 40,
+      "defense": 5,
+      "stamina": 15,
+      "dash": 40,
+      "burstResistance": 80
+    },
+    "debutProductCode": "UX-09",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Level",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Level",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-low-rush",
+    "category": "bit",
+    "name": "Low Rush",
+    "abbreviation": "LR",
+    "type": "attack",
+    "weight": 1.9,
+    "stats": {
+      "attack": 45,
+      "defense": 5,
+      "stamina": 15,
+      "dash": 35,
+      "burstResistance": 80
+    },
+    "debutProductCode": "UX-11",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Low_Rush",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Low_Rush",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-under-needle",
+    "category": "bit",
+    "name": "Under Needle",
+    "abbreviation": "UN",
+    "type": "defense",
+    "weight": 1.9,
+    "stats": {
+      "attack": 10,
+      "defense": 60,
+      "stamina": 20,
+      "dash": 10,
+      "burstResistance": 30
+    },
+    "debutProductCode": "UX-13",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Under_Needle",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Under_Needle",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-zap",
+    "category": "bit",
+    "name": "Zap",
+    "abbreviation": "Z",
+    "type": "balance",
+    "weight": 2.5,
+    "stats": {
+      "attack": 30,
+      "defense": 20,
+      "stamina": 15,
+      "dash": 35,
+      "burstResistance": 80
+    },
+    "debutProductCode": "UX-14",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Zap",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Zap",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-under-flat",
+    "category": "bit",
+    "name": "Under Flat",
+    "abbreviation": "UF",
+    "type": "attack",
+    "weight": 2,
+    "stats": {
+      "attack": 55,
+      "defense": 5,
+      "stamina": 5,
+      "dash": 35,
+      "burstResistance": 80
+    },
+    "debutProductCode": "UX-15",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Under_Flat",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Under_Flat",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-jolt",
+    "category": "bit",
+    "name": "Jolt",
+    "abbreviation": "J",
+    "type": "attack",
+    "weight": 2.6,
+    "stats": {
+      "attack": 35,
+      "defense": 10,
+      "stamina": 15,
+      "dash": 40,
+      "burstResistance": 80
+    },
+    "debutProductCode": "UX-17",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Jolt",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Jolt",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-vortex",
+    "category": "bit",
+    "name": "Vortex",
+    "abbreviation": "V",
+    "type": "attack",
+    "weight": 2.2,
+    "stats": {
+      "attack": 45,
+      "defense": 10,
+      "stamina": 5,
+      "dash": 40,
+      "burstResistance": 80
+    },
+    "debutProductCode": "CX-01",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Vortex",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Vortex",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-low-orb",
+    "category": "bit",
+    "name": "Low Orb",
+    "abbreviation": "LO",
+    "type": "stamina",
+    "weight": 1.9,
+    "stats": {
+      "attack": 5,
+      "defense": 25,
+      "stamina": 55,
+      "dash": 15,
+      "burstResistance": 30
+    },
+    "debutProductCode": "CX-02",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Low_Orb",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Low_Orb",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-wedge",
+    "category": "bit",
+    "name": "Wedge",
+    "abbreviation": "W",
+    "type": "defense",
+    "weight": 1.8,
+    "stats": {
+      "attack": 5,
+      "defense": 55,
+      "stamina": 30,
+      "dash": 10,
+      "burstResistance": 30
+    },
+    "debutProductCode": "CX-03",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Wedge",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Wedge",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-kick",
+    "category": "bit",
+    "name": "Kick",
+    "abbreviation": "K",
+    "type": "balance",
+    "weight": 2.2,
+    "stats": {
+      "attack": 35,
+      "defense": 25,
+      "stamina": 15,
+      "dash": 25,
+      "burstResistance": 80
+    },
+    "debutProductCode": "CX-05",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Kick",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Kick",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-trans-kick",
+    "category": "bit",
+    "name": "Trans Kick",
+    "abbreviation": "TK",
+    "type": "balance",
+    "weight": 2.3,
+    "stats": {
+      "attack": 35,
+      "defense": 30,
+      "stamina": 20,
+      "dash": 15,
+      "burstResistance": 80
+    },
+    "debutProductCode": "CX-09",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Trans_Kick",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Trans_Kick",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-wall-wedge",
+    "category": "bit",
+    "name": "Wall Wedge",
+    "abbreviation": "WW",
+    "type": "defense",
+    "weight": 2.4,
+    "stats": {
+      "attack": 5,
+      "defense": 60,
+      "stamina": 25,
+      "dash": 10,
+      "burstResistance": 30
+    },
+    "debutProductCode": "CX-12",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Wall_Wedge",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Wall_Wedge",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-ignition",
+    "category": "bit",
+    "name": "Ignition",
+    "abbreviation": "I",
+    "type": "attack",
+    "weight": 2.4,
+    "stats": {
+      "attack": 50,
+      "defense": 15,
+      "stamina": 5,
+      "dash": 30,
+      "burstResistance": 80
+    },
+    "debutProductCode": "CX-13",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Ignition",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Ignition",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "bit-yielding",
+    "category": "bit",
+    "name": "Yielding",
+    "abbreviation": "Y",
+    "type": "stamina",
+    "weight": 4.2,
+    "stats": {
+      "attack": 10,
+      "defense": 15,
+      "stamina": 65,
+      "dash": 10,
+      "burstResistance": 30
+    },
+    "debutProductCode": "CX-15",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Yielding",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Bit_-_Yielding",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  }
+]

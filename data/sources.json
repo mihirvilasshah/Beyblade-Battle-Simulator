@@ -1,0 +1,26 @@
+[
+  {
+    "id": "takara-tomy",
+    "name": "Takara Tomy — BEYBLADE X official product lineup",
+    "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/",
+    "kind": "official",
+    "usedFor": "Product codes, product names, combo part codes and Japanese release dates.",
+    "license": "Facts only. No official images or descriptive text are reproduced."
+  },
+  {
+    "id": "beyblade-wiki",
+    "name": "Beyblade Wiki (Fandom community)",
+    "url": "https://beyblade.fandom.com/wiki/Beyblade_X",
+    "kind": "community",
+    "usedFor": "Per-part Attack / Defense / Stamina / Dash / Burst Resistance specs (manufacturer figures as catalogued by the community), measured weights, type, spin direction and Hasbro names.",
+    "license": "Community content is CC BY-SA. Only factual values are referenced."
+  },
+  {
+    "id": "simulation",
+    "name": "BEYBLADE X Battle Arena simulation model",
+    "url": "/about",
+    "kind": "derived",
+    "usedFor": "Combined combo stats (sums of part specs), estimates for missing part specs, and all simulated battle behaviour.",
+    "license": "Original work."
+  }
+]

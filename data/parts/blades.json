@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "blade-dran-sword",
+    "category": "blade",
+    "name": "Dran Sword",
+    "type": "attack",
+    "weight": 34.6,
+    "stats": {
+      "attack": 55,
+      "defense": 25,
+      "stamina": 20
+    },
+    "debutProductCode": "BX-01",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_DranSword",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_DranSword",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-hells-scythe",
+    "category": "blade",
+    "name": "Hells Scythe",
+    "type": "balance",
+    "weight": 32.7,
+    "stats": {
+      "attack": 30,
+      "defense": 35,
+      "stamina": 35
+    },
+    "debutProductCode": "BX-02",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_HellsScythe",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_HellsScythe",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-wizard-arrow",
+    "category": "blade",
+    "name": "Wizard Arrow",
+    "type": "stamina",
+    "weight": 31.8,
+    "stats": {
+      "attack": 15,
+      "defense": 30,
+      "stamina": 55
+    },
+    "debutProductCode": "BX-03",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_WizardArrow",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_WizardArrow",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-knight-shield",
+    "category": "blade",
+    "name": "Knight Shield",
+    "type": "defense",
+    "weight": 32.4,
+    "stats": {
+      "attack": 20,
+      "defense": 55,
+      "stamina": 25
+    },
+    "debutProductCode": "BX-04",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_KnightShield",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_KnightShield",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-knight-lance",
+    "category": "blade",
+    "name": "Knight Lance",
+    "type": "defense",
+    "weight": 32.9,
+    "stats": {
+      "attack": 25,
+      "defense": 60,
+      "stamina": 15
+    },
+    "debutProductCode": "BX-13",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_KnightLance",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_KnightLance",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-shark-edge",
+    "category": "blade",
+    "name": "Shark Edge",
+    "type": "attack",
+    "weight": 34.5,
+    "stats": {
+      "attack": 60,
+      "defense": 25,
+      "stamina": 15
+    },
+    "debutProductCode": "BX-14",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_SharkEdge",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_SharkEdge",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-leon-claw",
+    "category": "blade",
+    "name": "Leon Claw",
+    "type": "balance",
+    "weight": 31.4,
+    "stats": {
+      "attack": 40,
+      "defense": 40,
+      "stamina": 20
+    },
+    "debutProductCode": "BX-15",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_LeonClaw",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_LeonClaw",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-rhino-horn",
+    "category": "blade",
+    "name": "Rhino Horn",
+    "type": "defense",
+    "weight": 32.7,
+    "stats": {
+      "attack": 20,
+      "defense": 50,
+      "stamina": 30
+    },
+    "debutProductCode": "BX-19",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_RhinoHorn",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_RhinoHorn",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-dran-dagger",
+    "category": "blade",
+    "name": "Dran Dagger",
+    "type": "attack",
+    "weight": 34.8,
+    "stats": {
+      "attack": 50,
+      "defense": 25,
+      "stamina": 25
+    },
+    "debutProductCode": "BX-20",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_DranDagger",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_DranDagger",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-hells-chain",
+    "category": "blade",
+    "name": "Hells Chain",
+    "type": "balance",
+    "weight": 33.2,
+    "stats": {
+      "attack": 35,
+      "defense": 40,
+      "stamina": 25
+    },
+    "debutProductCode": "BX-21",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_HellsChain",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_HellsChain",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-phoenix-wing",
+    "category": "blade",
+    "name": "Phoenix Wing",
+    "type": "attack",
+    "weight": 38,
+    "stats": {
+      "attack": 60,
+      "defense": 25,
+      "stamina": 15
+    },
+    "debutProductCode": "BX-23",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_PhoenixWing",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_PhoenixWing",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-dranzer-spiral",
+    "category": "blade",
+    "name": "Dranzer Spiral",
+    "type": "balance",
+    "weight": 27.7,
+    "stats": {
+      "attack": 35,
+      "defense": 30,
+      "stamina": 35
+    },
+    "debutProductCode": "BX-00",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_DranzerSpiral",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_DranzerSpiral",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-driger-slash",
+    "category": "blade",
+    "name": "Driger Slash",
+    "type": "balance",
+    "weight": 28.6,
+    "stats": {
+      "attack": 40,
+      "defense": 35,
+      "stamina": 25
+    },
+    "debutProductCode": "BX-00",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_DrigerSlash",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_DrigerSlash",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-unicorn-sting",
+    "category": "blade",
+    "name": "Unicorn Sting",
+    "type": "balance",
+    "weight": 33.4,
+    "stats": {
+      "attack": 35,
+      "defense": 35,
+      "stamina": 30
+    },
+    "debutProductCode": "BX-26",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_UnicornSting",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_UnicornSting",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-tyranno-beat",
+    "category": "blade",
+    "name": "Tyranno Beat",
+    "type": "attack",
+    "weight": 37,
+    "stats": {
+      "attack": 65,
+      "defense": 30,
+      "stamina": 5
+    },
+    "debutProductCode": "BX-31",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_TyrannoBeat",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_TyrannoBeat",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-weiss-tiger",
+    "category": "blade",
+    "name": "Weiss Tiger",
+    "type": "balance",
+    "weight": 34.6,
+    "stats": {
+      "attack": 45,
+      "defense": 30,
+      "stamina": 25
+    },
+    "debutProductCode": "BX-33",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_WeissTiger",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_WeissTiger",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-cobalt-dragoon",
+    "category": "blade",
+    "name": "Cobalt Dragoon",
+    "type": "attack",
+    "weight": 37.8,
+    "stats": {
+      "attack": 60,
+      "defense": 15,
+      "stamina": 25
+    },
+    "debutProductCode": "BX-34",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_CobaltDragoon",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_CobaltDragoon",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-black-shell",
+    "category": "blade",
+    "name": "Black Shell",
+    "type": "defense",
+    "weight": 32.4,
+    "stats": {
+      "attack": 10,
+      "defense": 65,
+      "stamina": 25
+    },
+    "debutProductCode": "BX-35",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_BlackShell",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_BlackShell",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-crimson-garuda",
+    "category": "blade",
+    "name": "Crimson Garuda",
+    "type": "balance",
+    "weight": 35,
+    "stats": {
+      "attack": 45,
+      "defense": 25,
+      "stamina": 30
+    },
+    "debutProductCode": "BX-38",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_CrimsonGaruda",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_CrimsonGaruda",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-draciel-shield",
+    "category": "blade",
+    "name": "Draciel Shield",
+    "type": "defense",
+    "weight": 28,
+    "stats": {
+      "attack": 30,
+      "defense": 50,
+      "stamina": 20
+    },
+    "debutProductCode": "BX-00",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_DracielShield",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_DracielShield",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-xeno-xcalibur",
+    "category": "blade",
+    "name": "Xeno Xcalibur",
+    "type": "attack",
+    "weight": 31,
+    "stats": {
+      "attack": 65,
+      "defense": 25,
+      "stamina": 10
+    },
+    "debutProductCode": "BX-00",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_XenoXcalibur",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_XenoXcalibur",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-storm-pegasis",
+    "category": "blade",
+    "name": "Storm Pegasis",
+    "type": "attack",
+    "weight": 31,
+    "stats": {
+      "attack": 55,
+      "defense": 15,
+      "stamina": 30
+    },
+    "debutProductCode": "BX-00",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_StormPegasis",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_StormPegasis",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-tricera-press",
+    "category": "blade",
+    "name": "Tricera Press",
+    "type": "defense",
+    "weight": 36.5,
+    "stats": {
+      "attack": 20,
+      "defense": 65,
+      "stamina": 15
+    },
+    "debutProductCode": "BX-44",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_TriceraPress",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_TriceraPress",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-samurai-calibur",
+    "category": "blade",
+    "name": "Samurai Calibur",
+    "type": "balance",
+    "weight": 36,
+    "stats": {
+      "attack": 40,
+      "defense": 30,
+      "stamina": 30
+    },
+    "debutProductCode": "BX-45",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_SamuraiCalibur",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_SamuraiCalibur",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-dran-strike",
+    "category": "blade",
+    "name": "Dran Strike",
+    "type": "attack",
+    "weight": 41.4,
+    "stats": {
+      "attack": 58,
+      "defense": 25,
+      "stamina": 17
+    },
+    "debutProductCode": "BX-49",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_DranStrike",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_DranStrike",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-dran-buster",
+    "category": "blade",
+    "name": "Dran Buster",
+    "type": "attack",
+    "weight": 36.5,
+    "stats": {
+      "attack": 70,
+      "defense": 20,
+      "stamina": 10
+    },
+    "debutProductCode": "UX-01",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_DranBuster",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_DranBuster",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-hells-hammer",
+    "category": "blade",
+    "name": "Hells Hammer",
+    "type": "balance",
+    "weight": 33,
+    "stats": {
+      "attack": 50,
+      "defense": 25,
+      "stamina": 25
+    },
+    "debutProductCode": "UX-02",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_HellsHammer",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_HellsHammer",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-wizard-rod",
+    "category": "blade",
+    "name": "Wizard Rod",
+    "type": "stamina",
+    "weight": 35.3,
+    "stats": {
+      "attack": 15,
+      "defense": 25,
+      "stamina": 60
+    },
+    "debutProductCode": "UX-03",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_WizardRod",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_WizardRod",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-shinobi-shadow",
+    "category": "blade",
+    "name": "Shinobi Shadow",
+    "type": "defense",
+    "weight": 28.2,
+    "stats": {
+      "attack": 10,
+      "defense": 70,
+      "stamina": 20
+    },
+    "debutProductCode": "UX-05",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_ShinobiShadow",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_ShinobiShadow",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-aero-pegasus",
+    "category": "blade",
+    "name": "Aero Pegasus",
+    "type": "attack",
+    "weight": 38.2,
+    "stats": {
+      "attack": 60,
+      "defense": 25,
+      "stamina": 30
+    },
+    "debutProductCode": "UX-00",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_AeroPegasus",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_AeroPegasus",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-leon-crest",
+    "category": "blade",
+    "name": "Leon Crest",
+    "type": "defense",
+    "weight": 35,
+    "stats": {
+      "attack": 15,
+      "defense": 70,
+      "stamina": 15
+    },
+    "debutProductCode": "UX-06",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_LeonCrest",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_LeonCrest",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-phoenix-rudder",
+    "category": "blade",
+    "name": "Phoenix Rudder",
+    "type": "stamina",
+    "weight": 34.5,
+    "stats": {
+      "attack": 10,
+      "defense": 35,
+      "stamina": 55
+    },
+    "debutProductCode": "UX-07",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_PhoenixRudder",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_PhoenixRudder",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-silver-wolf",
+    "category": "blade",
+    "name": "Silver Wolf",
+    "type": "stamina",
+    "weight": 36.8,
+    "stats": {
+      "attack": 15,
+      "defense": 30,
+      "stamina": 65
+    },
+    "debutProductCode": "UX-08",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_SilverWolf",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_SilverWolf",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-samurai-saber",
+    "category": "blade",
+    "name": "Samurai Saber",
+    "type": "attack",
+    "weight": 36.5,
+    "stats": {
+      "attack": 65,
+      "defense": 20,
+      "stamina": 25
+    },
+    "debutProductCode": "UX-09",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_SamuraiSaber",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_SamuraiSaber",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-impact-drake",
+    "category": "blade",
+    "name": "Impact Drake",
+    "type": "attack",
+    "weight": 39,
+    "stats": {
+      "attack": 75,
+      "defense": 25,
+      "stamina": 10
+    },
+    "debutProductCode": "UX-11",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_ImpactDrake",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_ImpactDrake",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-golem-rock",
+    "category": "blade",
+    "name": "Golem Rock",
+    "type": "defense",
+    "weight": 34,
+    "stats": {
+      "attack": 30,
+      "defense": 60,
+      "stamina": 10
+    },
+    "debutProductCode": "UX-13",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_GolemRock",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_GolemRock",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-scorpio-spear",
+    "category": "blade",
+    "name": "Scorpio Spear",
+    "type": "balance",
+    "weight": 39.6,
+    "stats": {
+      "attack": 25,
+      "defense": 55,
+      "stamina": 30
+    },
+    "debutProductCode": "UX-14",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_ScorpioSpear",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_ScorpioSpear",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ],
+    "notes": "Stats change between modes; the initial mode is used."
+  },
+  {
+    "id": "blade-shark-scale",
+    "category": "blade",
+    "name": "Shark Scale",
+    "type": "attack",
+    "weight": 37.6,
+    "stats": {
+      "attack": 70,
+      "defense": 15,
+      "stamina": 15
+    },
+    "debutProductCode": "UX-15",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_SharkScale",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_SharkScale",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "blade-meteor-dragoon",
+    "category": "blade",
+    "name": "Meteor Dragoon",
+    "type": "attack",
+    "weight": 39,
+    "stats": {
+      "attack": 75,
+      "defense": 15,
+      "stamina": 35
+    },
+    "debutProductCode": "UX-17",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_MeteorDragoon",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Blade_-_MeteorDragoon",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  }
+]

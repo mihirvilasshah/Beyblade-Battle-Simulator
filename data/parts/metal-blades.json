@@ -1,0 +1,101 @@
+[
+  {
+    "id": "metal-blade-blitz",
+    "category": "metalBlade",
+    "name": "Blitz",
+    "type": "attack",
+    "weight": 29.6,
+    "stats": {
+      "attack": 25,
+      "defense": 10,
+      "stamina": 5
+    },
+    "debutProductCode": "CX-13",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Metal_Blade_-_Blitz",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Metal_Blade_-_Blitz",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "metal-blade-fortress",
+    "category": "metalBlade",
+    "name": "Fortress",
+    "type": "defense",
+    "weight": 27.5,
+    "stats": {
+      "attack": 10,
+      "defense": 20,
+      "stamina": 10
+    },
+    "debutProductCode": "CX-14",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Metal_Blade_-_Fortress",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Metal_Blade_-_Fortress",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "metal-blade-rage",
+    "category": "metalBlade",
+    "name": "Rage",
+    "type": "stamina",
+    "weight": 27.2,
+    "stats": {
+      "attack": 10,
+      "defense": 10,
+      "stamina": 20
+    },
+    "debutProductCode": "CX-15",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Metal_Blade_-_Rage",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Metal_Blade_-_Rage",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  }
+]

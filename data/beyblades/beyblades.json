@@ -1,0 +1,2475 @@
+[
+  {
+    "id": "dran-sword-3-60f",
+    "name": "Dran Sword",
+    "fullName": "Dran Sword 3-60F",
+    "comboCode": "3-60F",
+    "hasbroName": "Sword Dran 3-60F",
+    "productCode": "BX-01",
+    "series": "BX",
+    "line": "BX",
+    "type": "attack",
+    "spinDirection": "right",
+    "weight": 43.2,
+    "parts": {
+      "blade": "blade-dran-sword",
+      "ratchet": "ratchet-3-60",
+      "bit": "bit-flat"
+    },
+    "releaseDate": "2023-07-15",
+    "description": "The original BEYBLADE X attacker: three upper blades built to drive opponents upward while the Flat bit hunts for Xtreme Dash opportunities.",
+    "image": null,
+    "visual": {
+      "primary": "#1d5cff",
+      "secondary": "#d7e3ff",
+      "accent": "#7fd1ff",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx01.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/DranSword_3-60F",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hells-scythe-4-60t",
+    "name": "Hells Scythe",
+    "fullName": "Hells Scythe 4-60T",
+    "comboCode": "4-60T",
+    "hasbroName": "Scythe Incendio 4-60T",
+    "productCode": "BX-02",
+    "series": "BX",
+    "line": "BX",
+    "type": "balance",
+    "spinDirection": "right",
+    "weight": 41.4,
+    "parts": {
+      "blade": "blade-hells-scythe",
+      "ratchet": "ratchet-4-60",
+      "bit": "bit-taper"
+    },
+    "releaseDate": "2023-07-15",
+    "description": "A versatile Balance combo whose four smash blades and Taper bit mix aggressive movement with steadier finishing.",
+    "image": null,
+    "visual": {
+      "primary": "#2b2d3a",
+      "secondary": "#ff4d5e",
+      "accent": "#ff9aa5",
+      "blades": 4
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx02.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/HellsScythe_4-60T",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wizard-arrow-4-80b",
+    "name": "Wizard Arrow",
+    "fullName": "Wizard Arrow 4-80B",
+    "comboCode": "4-80B",
+    "hasbroName": "Arrow Wizard 4-80B",
+    "productCode": "BX-03",
+    "series": "BX",
+    "line": "BX",
+    "type": "stamina",
+    "spinDirection": "right",
+    "weight": 41,
+    "parts": {
+      "blade": "blade-wizard-arrow",
+      "ratchet": "ratchet-4-80",
+      "bit": "bit-ball"
+    },
+    "releaseDate": "2023-07-15",
+    "description": "Two broad blades push weight outward for centrifugal Stamina, and the Ball bit keeps it calm in the centre.",
+    "image": null,
+    "visual": {
+      "primary": "#1a8f5a",
+      "secondary": "#d9f5e6",
+      "accent": "#7ff0b6",
+      "blades": 2
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx03.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/WizardArrow_4-80B",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "knight-shield-3-80n",
+    "name": "Knight Shield",
+    "fullName": "Knight Shield 3-80N",
+    "comboCode": "3-80N",
+    "hasbroName": "Helm Knight 3-80N",
+    "productCode": "BX-04",
+    "series": "BX",
+    "line": "BX",
+    "type": "defense",
+    "spinDirection": "right",
+    "weight": 41.5,
+    "parts": {
+      "blade": "blade-knight-shield",
+      "ratchet": "ratchet-3-80",
+      "bit": "bit-needle"
+    },
+    "releaseDate": "2023-07-15",
+    "description": "Six damping blades absorb incoming strikes while the Needle bit holds the centre of the stadium.",
+    "image": null,
+    "visual": {
+      "primary": "#8a5cff",
+      "secondary": "#ece5ff",
+      "accent": "#c4a8ff",
+      "blades": 6
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx04.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/KnightShield_3-80N",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "knight-lance-4-80hn",
+    "name": "Knight Lance",
+    "fullName": "Knight Lance 4-80HN",
+    "comboCode": "4-80HN",
+    "hasbroName": "Lance Knight 4-80HN",
+    "productCode": "BX-13",
+    "series": "BX",
+    "line": "BX",
+    "type": "defense",
+    "spinDirection": "right",
+    "weight": 42.1,
+    "parts": {
+      "blade": "blade-knight-lance",
+      "ratchet": "ratchet-4-80",
+      "bit": "bit-high-needle"
+    },
+    "releaseDate": "2023-08-10",
+    "description": "A taller Defense setup: a sturdy lance-like blade paired with the High Needle bit for stable positioning.",
+    "image": null,
+    "visual": {
+      "primary": "#4a3fbf",
+      "secondary": "#dcd8ff",
+      "accent": "#9f97ff",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx13.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/KnightLance_4-80HN",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shark-edge-3-60lf",
+    "name": "Shark Edge",
+    "fullName": "Shark Edge 3-60LF",
+    "comboCode": "3-60LF",
+    "hasbroName": "Keel Shark 3-60LF",
+    "productCode": "BX-14",
+    "series": "BX",
+    "line": "BX",
+    "type": "attack",
+    "spinDirection": "right",
+    "weight": 43,
+    "parts": {
+      "blade": "blade-shark-edge",
+      "ratchet": "ratchet-3-60",
+      "bit": "bit-low-flat"
+    },
+    "releaseDate": "2023-09-09",
+    "description": "An upper-attack blade on a low profile with the Low Flat bit for fast, sharp Xtreme Dashes.",
+    "image": null,
+    "visual": {
+      "primary": "#0e7fa8",
+      "secondary": "#d4f3ff",
+      "accent": "#5fd8ff",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx14.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/SharkEdge_3-60LF",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leon-claw-5-60p",
+    "name": "Leon Claw",
+    "fullName": "Leon Claw 5-60P",
+    "comboCode": "5-60P",
+    "hasbroName": "Claw Leon 5-60P",
+    "productCode": "BX-15",
+    "series": "BX",
+    "line": "BX",
+    "type": "balance",
+    "spinDirection": "right",
+    "weight": 40.2,
+    "parts": {
+      "blade": "blade-leon-claw",
+      "ratchet": "ratchet-5-60",
+      "bit": "bit-point"
+    },
+    "releaseDate": "2023-10-07",
+    "description": "A Balance blade with claw-like contact points paired with the all-rounder Point bit.",
+    "image": null,
+    "visual": {
+      "primary": "#d99a12",
+      "secondary": "#fff1cc",
+      "accent": "#ffd466",
+      "blades": 6
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx15.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/LeonClaw_5-60P",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rhino-horn-3-80s",
+    "name": "Rhino Horn",
+    "fullName": "Rhino Horn 3-80S",
+    "comboCode": "3-80S",
+    "hasbroName": "Horn Rhino 3-80S",
+    "productCode": "BX-19",
+    "series": "BX",
+    "line": "BX",
+    "type": "defense",
+    "spinDirection": "right",
+    "weight": 41.8,
+    "parts": {
+      "blade": "blade-rhino-horn",
+      "ratchet": "ratchet-3-80",
+      "bit": "bit-spike"
+    },
+    "releaseDate": "2023-11-02",
+    "description": "A compact, inward-weighted Defense blade on a Spike bit, designed to shrug off strong hits.",
+    "image": null,
+    "visual": {
+      "primary": "#6b7280",
+      "secondary": "#e5e7eb",
+      "accent": "#c3c8d1",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx19.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/RhinoHorn_3-80S",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dran-dagger-4-60r",
+    "name": "Dran Dagger",
+    "fullName": "Dran Dagger 4-60R",
+    "comboCode": "4-60R",
+    "hasbroName": "Dagger Dran 4-60R",
+    "productCode": "BX-20",
+    "series": "BX",
+    "line": "BX",
+    "type": "attack",
+    "spinDirection": "right",
+    "weight": 43.2,
+    "parts": {
+      "blade": "blade-dran-dagger",
+      "ratchet": "ratchet-4-60",
+      "bit": "bit-rush"
+    },
+    "releaseDate": "2023-11-02",
+    "description": "An Attack blade on the Rush bit, whose ten-tooth gear trades raw dash speed for more frequent rail contact.",
+    "image": null,
+    "visual": {
+      "primary": "#d8322f",
+      "secondary": "#ffe0dc",
+      "accent": "#ff8a80",
+      "blades": 4
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx20.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/DranDagger_4-60R",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hells-chain-5-60ht",
+    "name": "Hells Chain",
+    "fullName": "Hells Chain 5-60HT",
+    "comboCode": "5-60HT",
+    "hasbroName": "Chain Incendio 5-60HT",
+    "productCode": "BX-21",
+    "series": "BX",
+    "line": "BX",
+    "type": "balance",
+    "spinDirection": "right",
+    "weight": 42,
+    "parts": {
+      "blade": "blade-hells-chain",
+      "ratchet": "ratchet-5-60",
+      "bit": "bit-high-taper"
+    },
+    "releaseDate": "2023-11-02",
+    "description": "A Balance combo with a chain-link blade and High Taper bit for controlled, mid-speed movement.",
+    "image": null,
+    "visual": {
+      "primary": "#3a1f4f",
+      "secondary": "#e9d5ff",
+      "accent": "#c084fc",
+      "blades": 4
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx21.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/HellsChain_5-60HT",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "phoenix-wing-9-60gf",
+    "name": "Phoenix Wing",
+    "fullName": "Phoenix Wing 9-60GF",
+    "comboCode": "9-60GF",
+    "hasbroName": "Soar Phoenix 9-60GF",
+    "productCode": "BX-23",
+    "series": "BX",
+    "line": "BX",
+    "type": "attack",
+    "spinDirection": "right",
+    "weight": 46.5,
+    "parts": {
+      "blade": "blade-phoenix-wing",
+      "ratchet": "ratchet-9-60",
+      "bit": "bit-gear-flat"
+    },
+    "releaseDate": "2023-12-27",
+    "description": "A heavy, metal-rich Attack blade with Gear Flat for explosive Xtreme Dash potential.",
+    "image": null,
+    "visual": {
+      "primary": "#e24a1b",
+      "secondary": "#ffe2d3",
+      "accent": "#ffb347",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx23.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/PhoenixWing_9-60GF",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dranzer-spiral-3-80t",
+    "name": "Dranzer Spiral",
+    "fullName": "Dranzer Spiral 3-80T",
+    "comboCode": "3-80T",
+    "hasbroName": "Dranzer Spiral 3-80T",
+    "productCode": "BX-00",
+    "series": "BX",
+    "line": "BX",
+    "type": "balance",
+    "spinDirection": "right",
+    "weight": 37,
+    "parts": {
+      "blade": "blade-dranzer-spiral",
+      "ratchet": "ratchet-3-80",
+      "bit": "bit-taper"
+    },
+    "releaseDate": "2023-07-15",
+    "description": "A legacy-inspired Balance blade with two horizontal blades for striking power and endurance.",
+    "image": null,
+    "visual": {
+      "primary": "#2064d8",
+      "secondary": "#e0ecff",
+      "accent": "#ff7a45",
+      "blades": 2
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-ds.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/DranzerSpiral_3-80T",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "driger-slash-4-80p",
+    "name": "Driger Slash",
+    "fullName": "Driger Slash 4-80P",
+    "comboCode": "4-80P",
+    "hasbroName": "Driger Slash 4-80P",
+    "productCode": "BX-00",
+    "series": "BX",
+    "line": "BX",
+    "type": "balance",
+    "spinDirection": "right",
+    "weight": 37.8,
+    "parts": {
+      "blade": "blade-driger-slash",
+      "ratchet": "ratchet-4-80",
+      "bit": "bit-point"
+    },
+    "releaseDate": "2024-04-27",
+    "description": "A legacy-inspired Balance blade whose slashing edges pair with the neutral Point bit.",
+    "image": null,
+    "visual": {
+      "primary": "#15803d",
+      "secondary": "#dcfce7",
+      "accent": "#86efac",
+      "blades": 4
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-drs.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/DrigerSlash_4-80P",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unicorn-sting-5-60gp",
+    "name": "Unicorn Sting",
+    "fullName": "Unicorn Sting 5-60GP",
+    "comboCode": "5-60GP",
+    "hasbroName": "Sting Unicorn 5-60GP",
+    "productCode": "BX-26",
+    "series": "BX",
+    "line": "BX",
+    "type": "balance",
+    "spinDirection": "right",
+    "weight": 42.3,
+    "parts": {
+      "blade": "blade-unicorn-sting",
+      "ratchet": "ratchet-5-60",
+      "bit": "bit-gear-point"
+    },
+    "releaseDate": "2024-01-27",
+    "description": "A dual-mode Balance blade with both attack and defense edges; behaviour shifts with launch style.",
+    "image": null,
+    "visual": {
+      "primary": "#e8e8f0",
+      "secondary": "#7c3aed",
+      "accent": "#f0abfc",
+      "blades": 4
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx26.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/UnicornSting_5-60GP",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tyranno-beat-4-70q",
+    "name": "Tyranno Beat",
+    "fullName": "Tyranno Beat 4-70Q",
+    "comboCode": "4-70Q",
+    "hasbroName": "Beat Tyranno 4-70Q",
+    "productCode": "BX-31",
+    "series": "BX",
+    "line": "BX",
+    "type": "attack",
+    "spinDirection": "right",
+    "weight": 45.6,
+    "parts": {
+      "blade": "blade-tyranno-beat",
+      "ratchet": "ratchet-4-70",
+      "bit": "bit-quake"
+    },
+    "releaseDate": "2024-04-27",
+    "description": "A heavy smash-attack blade with the Quake bit, which produces erratic, hard-hitting movement.",
+    "image": null,
+    "visual": {
+      "primary": "#b45309",
+      "secondary": "#fde7c7",
+      "accent": "#fbbf24",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx31.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/TyrannoBeat_4-70Q",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "weiss-tiger-3-60u",
+    "name": "Weiss Tiger",
+    "fullName": "Weiss Tiger 3-60U",
+    "comboCode": "3-60U",
+    "hasbroName": "Pearl Tiger 3-60U",
+    "productCode": "BX-33",
+    "series": "BX",
+    "line": "BX",
+    "type": "balance",
+    "spinDirection": "right",
+    "weight": 43.1,
+    "parts": {
+      "blade": "blade-weiss-tiger",
+      "ratchet": "ratchet-3-60",
+      "bit": "bit-unite"
+    },
+    "releaseDate": "2024-06-15",
+    "description": "Upper, damper and smash blades on one Balance blade, with the multi-behaviour Unite bit.",
+    "image": null,
+    "visual": {
+      "primary": "#f1f5f9",
+      "secondary": "#0ea5e9",
+      "accent": "#7dd3fc",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx33.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/WeissTiger_3-60U",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cobalt-dragoon-2-60c",
+    "name": "Cobalt Dragoon",
+    "fullName": "Cobalt Dragoon 2-60C",
+    "comboCode": "2-60C",
+    "hasbroName": "Cobalt Dragoon 2-60C",
+    "productCode": "BX-34",
+    "series": "BX",
+    "line": "BX",
+    "type": "attack",
+    "spinDirection": "left",
+    "weight": 46.1,
+    "parts": {
+      "blade": "blade-cobalt-dragoon",
+      "ratchet": "ratchet-2-60",
+      "bit": "bit-cyclone"
+    },
+    "releaseDate": "2024-07-13",
+    "description": "A left-spin upper attacker with four heavy blades and the spiral Cyclone bit.",
+    "image": null,
+    "visual": {
+      "primary": "#1e40af",
+      "secondary": "#bfdbfe",
+      "accent": "#60a5fa",
+      "blades": 4
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx34.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/CobaltDragoon_2-60C",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "black-shell-4-60d",
+    "name": "Black Shell",
+    "fullName": "Black Shell 4-60D",
+    "comboCode": "4-60D",
+    "hasbroName": "Obsidian Shell 4-60D",
+    "productCode": "BX-35",
+    "series": "BX",
+    "line": "BX",
+    "type": "defense",
+    "spinDirection": "right",
+    "weight": 40.7,
+    "parts": {
+      "blade": "blade-black-shell",
+      "ratchet": "ratchet-4-60",
+      "bit": "bit-dot"
+    },
+    "releaseDate": "2024-07-13",
+    "description": "A shell-shaped Defense blade on the Dot bit, focused on deflecting attacks.",
+    "image": null,
+    "visual": {
+      "primary": "#111827",
+      "secondary": "#9ca3af",
+      "accent": "#34d399",
+      "blades": 5
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx35.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/BlackShell_4-60D",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "crimson-garuda-4-70tp",
+    "name": "Crimson Garuda",
+    "fullName": "Crimson Garuda 4-70TP",
+    "comboCode": "4-70TP",
+    "hasbroName": "Scarlet Garuda 4-70TP",
+    "productCode": "BX-38",
+    "series": "BX",
+    "line": "BX",
+    "type": "balance",
+    "spinDirection": "right",
+    "weight": null,
+    "parts": {
+      "blade": "blade-crimson-garuda",
+      "ratchet": "ratchet-4-70",
+      "bit": "bit-trans-point"
+    },
+    "releaseDate": "2024-11-02",
+    "description": "A Balance blade with the Trans Point bit for adaptable movement.",
+    "image": null,
+    "visual": {
+      "primary": "#b91c1c",
+      "secondary": "#fee2e2",
+      "accent": "#f97316",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx38.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/CrimsonGaruda_4-70TP",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "draciel-shield-7-60d",
+    "name": "Draciel Shield",
+    "fullName": "Draciel Shield 7-60D",
+    "comboCode": "7-60D",
+    "hasbroName": "Draciel Shield 7-60D",
+    "productCode": "BX-00",
+    "series": "BX",
+    "line": "BX",
+    "type": "defense",
+    "spinDirection": "right",
+    "weight": 37.1,
+    "parts": {
+      "blade": "blade-draciel-shield",
+      "ratchet": "ratchet-7-60",
+      "bit": "bit-dot"
+    },
+    "releaseDate": "2024-12-28",
+    "description": "A legacy-inspired Defense blade with rounded contact points and the Dot bit.",
+    "image": null,
+    "visual": {
+      "primary": "#0f766e",
+      "secondary": "#ccfbf1",
+      "accent": "#5eead4",
+      "blades": 6
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-drsh.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/DracielShield_7-60D",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "xeno-xcalibur-3-60gf",
+    "name": "Xeno Xcalibur",
+    "fullName": "Xeno Xcalibur 3-60GF",
+    "comboCode": "3-60GF",
+    "hasbroName": null,
+    "productCode": "BX-00",
+    "series": "BX",
+    "line": "BX",
+    "type": "attack",
+    "spinDirection": "right",
+    "weight": 39.7,
+    "parts": {
+      "blade": "blade-xeno-xcalibur",
+      "ratchet": "ratchet-3-60",
+      "bit": "bit-gear-flat"
+    },
+    "releaseDate": "2025-03-29",
+    "description": "A legacy-inspired Attack blade with long sword-like blades on the Gear Flat bit.",
+    "image": null,
+    "visual": {
+      "primary": "#4338ca",
+      "secondary": "#e0e7ff",
+      "accent": "#fcd34d",
+      "blades": 2
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-xc.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/XenoXcalibur_3-60GF",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "storm-pegasis-3-70ra",
+    "name": "Storm Pegasis",
+    "fullName": "Storm Pegasis 3-70RA",
+    "comboCode": "3-70RA",
+    "hasbroName": "Storm Pegasis 3-70RA",
+    "productCode": "BX-00",
+    "series": "BX",
+    "line": "BX",
+    "type": "attack",
+    "spinDirection": "right",
+    "weight": 40.5,
+    "parts": {
+      "blade": "blade-storm-pegasis",
+      "ratchet": "ratchet-3-70",
+      "bit": "bit-rubber-accel"
+    },
+    "releaseDate": "2025-03-21",
+    "description": "A legacy-inspired Attack blade on the grippy Rubber Accel bit.",
+    "image": null,
+    "visual": {
+      "primary": "#1d4ed8",
+      "secondary": "#dbeafe",
+      "accent": "#f9fafb",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx00-25set.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/StormPegasis_3-70RA",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tricera-press-m-85bs",
+    "name": "Tricera Press",
+    "fullName": "Tricera Press M-85BS",
+    "comboCode": "M-85BS",
+    "hasbroName": "Brace Triceratops M-85BS",
+    "productCode": "BX-44",
+    "series": "BX",
+    "line": "BX",
+    "type": "defense",
+    "spinDirection": "right",
+    "weight": 49.1,
+    "parts": {
+      "blade": "blade-tricera-press",
+      "ratchet": "ratchet-m-85",
+      "bit": "bit-bound-spike"
+    },
+    "releaseDate": "2025-06-28",
+    "description": "An inward-weighted Defense blade on the tall M-85 ratchet and bouncy Bound Spike bit.",
+    "image": null,
+    "visual": {
+      "primary": "#4d7c0f",
+      "secondary": "#ecfccb",
+      "accent": "#a3e635",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx44.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/TriceraPress_M-85BS",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "samurai-calibur-6-70m",
+    "name": "Samurai Calibur",
+    "fullName": "Samurai Calibur 6-70M",
+    "comboCode": "6-70M",
+    "hasbroName": "Calibur Samurai 6-70M",
+    "productCode": "BX-45",
+    "series": "BX",
+    "line": "BX",
+    "type": "balance",
+    "spinDirection": "right",
+    "weight": 45.7,
+    "parts": {
+      "blade": "blade-samurai-calibur",
+      "ratchet": "ratchet-6-70",
+      "bit": "bit-merge"
+    },
+    "releaseDate": "2025-08-09",
+    "description": "A Balance blade with the Merge bit, blending grip and stability.",
+    "image": null,
+    "visual": {
+      "primary": "#9f1239",
+      "secondary": "#ffe4e6",
+      "accent": "#fb7185",
+      "blades": 2
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx45.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/SamuraiCalibur_6-70M",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dran-strike-4-50ff",
+    "name": "Dran Strike",
+    "fullName": "Dran Strike 4-50FF",
+    "comboCode": "4-50FF",
+    "hasbroName": "Strike Dran 4-50FF",
+    "productCode": "BX-49",
+    "series": "BX",
+    "line": "BX",
+    "type": "attack",
+    "spinDirection": "right",
+    "weight": 49.4,
+    "parts": {
+      "blade": "blade-dran-strike",
+      "ratchet": "ratchet-4-50",
+      "bit": "bit-free-flat"
+    },
+    "releaseDate": "2026-05-16",
+    "description": "Six heavyweight blades with metal extending inward, riding the free-spinning Free Flat bit.",
+    "image": null,
+    "visual": {
+      "primary": "#2563eb",
+      "secondary": "#dbeafe",
+      "accent": "#fde047",
+      "blades": 6
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/bx49.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/DranStrike_4-50FF",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dran-buster-1-60a",
+    "name": "Dran Buster",
+    "fullName": "Dran Buster 1-60A",
+    "comboCode": "1-60A",
+    "hasbroName": "Buster Dran 1-60A",
+    "productCode": "UX-01",
+    "series": "UX",
+    "line": "UX",
+    "type": "attack",
+    "spinDirection": "right",
+    "weight": 45.1,
+    "parts": {
+      "blade": "blade-dran-buster",
+      "ratchet": "ratchet-1-60",
+      "bit": "bit-accel"
+    },
+    "releaseDate": "2024-03-30",
+    "description": "A single-blade Unique Line attacker concentrating weight into one massive hit, with the Accel bit.",
+    "image": null,
+    "visual": {
+      "primary": "#1e3a8a",
+      "secondary": "#dbeafe",
+      "accent": "#fb923c",
+      "blades": 1
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux01.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/DranBuster_1-60A",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hells-hammer-3-70h",
+    "name": "Hells Hammer",
+    "fullName": "Hells Hammer 3-70H",
+    "comboCode": "3-70H",
+    "hasbroName": "Hammer Incendio 3-70H",
+    "productCode": "UX-02",
+    "series": "UX",
+    "line": "UX",
+    "type": "balance",
+    "spinDirection": "right",
+    "weight": 42,
+    "parts": {
+      "blade": "blade-hells-hammer",
+      "ratchet": "ratchet-3-70",
+      "bit": "bit-hexa"
+    },
+    "releaseDate": "2024-03-30",
+    "description": "Thick smash blades aimed at slamming opponents down, stabilised by the six-sided Hexa bit.",
+    "image": null,
+    "visual": {
+      "primary": "#27272a",
+      "secondary": "#f87171",
+      "accent": "#fda4af",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux02.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/HellsHammer_3-70H",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wizard-rod-5-70db",
+    "name": "Wizard Rod",
+    "fullName": "Wizard Rod 5-70DB",
+    "comboCode": "5-70DB",
+    "hasbroName": "Wand Wizard 5-70DB",
+    "productCode": "UX-03",
+    "series": "UX",
+    "line": "UX",
+    "type": "stamina",
+    "spinDirection": "right",
+    "weight": 45.2,
+    "parts": {
+      "blade": "blade-wizard-rod",
+      "ratchet": "ratchet-5-70",
+      "bit": "bit-disk-ball"
+    },
+    "releaseDate": "2024-03-30",
+    "description": "A wide, outward-weighted Stamina blade with the Disk Ball bit to maximise centrifugal force.",
+    "image": null,
+    "visual": {
+      "primary": "#15803d",
+      "secondary": "#dcfce7",
+      "accent": "#4ade80",
+      "blades": 5
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux03.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/WizardRod_5-70DB",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shinobi-shadow-1-80mn",
+    "name": "Shinobi Shadow",
+    "fullName": "Shinobi Shadow 1-80MN",
+    "comboCode": "1-80MN",
+    "hasbroName": "Shadow Shinobi 1-80MN",
+    "productCode": "UX-05",
+    "series": "UX",
+    "line": "UX",
+    "type": "defense",
+    "spinDirection": "right",
+    "weight": 37.7,
+    "parts": {
+      "blade": "blade-shinobi-shadow",
+      "ratchet": "ratchet-1-80",
+      "bit": "bit-metal-needle"
+    },
+    "releaseDate": "2024-05-18",
+    "description": "Three smooth blades built to parry attacks, on a Metal Needle bit.",
+    "image": null,
+    "visual": {
+      "primary": "#312e81",
+      "secondary": "#c7d2fe",
+      "accent": "#818cf8",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux05.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/ShinobiShadow_1-80MN",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aero-pegasus-3-70a",
+    "name": "Aero Pegasus",
+    "fullName": "Aero Pegasus 3-70A",
+    "comboCode": "3-70A",
+    "hasbroName": null,
+    "productCode": "UX-00",
+    "series": "UX",
+    "line": "UX",
+    "type": "attack",
+    "spinDirection": "right",
+    "weight": 47.2,
+    "parts": {
+      "blade": "blade-aero-pegasus",
+      "ratchet": "ratchet-3-70",
+      "bit": "bit-accel"
+    },
+    "releaseDate": "2024-07-30",
+    "description": "A heavy Unique Line Attack blade on the Accel bit.",
+    "image": null,
+    "visual": {
+      "primary": "#0369a1",
+      "secondary": "#e0f2fe",
+      "accent": "#f8fafc",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux00-ap_red.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/AeroPegasus_3-70A",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leon-crest-7-60gn",
+    "name": "Leon Crest",
+    "fullName": "Leon Crest 7-60GN",
+    "comboCode": "7-60GN",
+    "hasbroName": "Crest Leon 7-60GN",
+    "productCode": "UX-06",
+    "series": "UX",
+    "line": "UX",
+    "type": "defense",
+    "spinDirection": "right",
+    "weight": 44.1,
+    "parts": {
+      "blade": "blade-leon-crest",
+      "ratchet": "ratchet-7-60",
+      "bit": "bit-gear-needle"
+    },
+    "releaseDate": "2024-08-10",
+    "description": "A Defense blade with a heavy crest ring, paired with Gear Needle for occasional dashes.",
+    "image": null,
+    "visual": {
+      "primary": "#ca8a04",
+      "secondary": "#fef9c3",
+      "accent": "#fde047",
+      "blades": 5
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux06.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/LeonCrest_7-60GN",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "phoenix-rudder-9-70g",
+    "name": "Phoenix Rudder",
+    "fullName": "Phoenix Rudder 9-70G",
+    "comboCode": "9-70G",
+    "hasbroName": "Rudder Phoenix 9-70G",
+    "productCode": "UX-07",
+    "series": "UX",
+    "line": "UX",
+    "type": "stamina",
+    "spinDirection": "right",
+    "weight": 43.3,
+    "parts": {
+      "blade": "blade-phoenix-rudder",
+      "ratchet": "ratchet-9-70",
+      "bit": "bit-glide"
+    },
+    "releaseDate": "2024-08-10",
+    "description": "A Stamina blade paired with the Glide bit for smooth, low-friction spin.",
+    "image": null,
+    "visual": {
+      "primary": "#c2410c",
+      "secondary": "#ffedd5",
+      "accent": "#fdba74",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux07.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/PhoenixRudder_9-70G",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "silver-wolf-3-80fb",
+    "name": "Silver Wolf",
+    "fullName": "Silver Wolf 3-80FB",
+    "comboCode": "3-80FB",
+    "hasbroName": "Sterling Wolf 3-80FB",
+    "productCode": "UX-08",
+    "series": "UX",
+    "line": "UX",
+    "type": "stamina",
+    "spinDirection": "right",
+    "weight": 45.8,
+    "parts": {
+      "blade": "blade-silver-wolf",
+      "ratchet": "ratchet-3-80",
+      "bit": "bit-free-ball"
+    },
+    "releaseDate": "2024-10-12",
+    "description": "A high-stamina blade with the free-spinning Free Ball bit.",
+    "image": null,
+    "visual": {
+      "primary": "#94a3b8",
+      "secondary": "#f8fafc",
+      "accent": "#38bdf8",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux08.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/SilverWolf_3-80FB",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "samurai-saber-2-70l",
+    "name": "Samurai Saber",
+    "fullName": "Samurai Saber 2-70L",
+    "comboCode": "2-70L",
+    "hasbroName": "Saber Samurai 2-70L",
+    "productCode": "UX-09",
+    "series": "UX",
+    "line": "UX",
+    "type": "attack",
+    "spinDirection": "right",
+    "weight": 45.5,
+    "parts": {
+      "blade": "blade-samurai-saber",
+      "ratchet": "ratchet-2-70",
+      "bit": "bit-level"
+    },
+    "releaseDate": "2024-11-02",
+    "description": "A Unique Line attacker paired with the Level bit.",
+    "image": null,
+    "visual": {
+      "primary": "#dc2626",
+      "secondary": "#fee2e2",
+      "accent": "#fbbf24",
+      "blades": 2
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux09.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/SamuraiSaber_2-70L",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "impact-drake-9-60lr",
+    "name": "Impact Drake",
+    "fullName": "Impact Drake 9-60LR",
+    "comboCode": "9-60LR",
+    "hasbroName": "Impact Drake 9-60LR",
+    "productCode": "UX-11",
+    "series": "UX",
+    "line": "UX",
+    "type": "attack",
+    "spinDirection": "right",
+    "weight": 47.1,
+    "parts": {
+      "blade": "blade-impact-drake",
+      "ratchet": "ratchet-9-60",
+      "bit": "bit-low-rush"
+    },
+    "releaseDate": "2024-12-28",
+    "description": "One of the highest-attack blades, paired with the aggressive Low Rush bit.",
+    "image": null,
+    "visual": {
+      "primary": "#7e22ce",
+      "secondary": "#f3e8ff",
+      "accent": "#e879f9",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux11.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/ImpactDrake_9-60LR",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "golem-rock-1-60un",
+    "name": "Golem Rock",
+    "fullName": "Golem Rock 1-60UN",
+    "comboCode": "1-60UN",
+    "hasbroName": "Rock Golem 1-60UN",
+    "productCode": "UX-13",
+    "series": "UX",
+    "line": "UX",
+    "type": "defense",
+    "spinDirection": "right",
+    "weight": 41.9,
+    "parts": {
+      "blade": "blade-golem-rock",
+      "ratchet": "ratchet-1-60",
+      "bit": "bit-under-needle"
+    },
+    "releaseDate": "2025-01-25",
+    "description": "A rugged Defense blade on a low Under Needle bit.",
+    "image": null,
+    "visual": {
+      "primary": "#57534e",
+      "secondary": "#e7e5e4",
+      "accent": "#fb923c",
+      "blades": 4
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux13.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/GolemRock_1-60UN",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scorpio-spear-0-70z",
+    "name": "Scorpio Spear",
+    "fullName": "Scorpio Spear 0-70Z",
+    "comboCode": "0-70Z",
+    "hasbroName": "Spear Scorpio 0-70Z",
+    "productCode": "UX-14",
+    "series": "UX",
+    "line": "UX",
+    "type": "balance",
+    "spinDirection": "right",
+    "weight": 49.6,
+    "parts": {
+      "blade": "blade-scorpio-spear",
+      "ratchet": "ratchet-0-70",
+      "bit": "bit-zap"
+    },
+    "releaseDate": "2025-04-26",
+    "description": "A transforming blade that shifts from a defensive six-blade form to a three-blade attack form after dashing.",
+    "image": null,
+    "visual": {
+      "primary": "#be185d",
+      "secondary": "#fce7f3",
+      "accent": "#f472b6",
+      "blades": 6
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux14.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/ScorpioSpear_0-70Z",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shark-scale-4-50uf",
+    "name": "Shark Scale",
+    "fullName": "Shark Scale 4-50UF",
+    "comboCode": "4-50UF",
+    "hasbroName": "Scale Shark 4-50UF",
+    "productCode": "UX-15",
+    "series": "UX",
+    "line": "UX",
+    "type": "attack",
+    "spinDirection": "right",
+    "weight": 45.5,
+    "parts": {
+      "blade": "blade-shark-scale",
+      "ratchet": "ratchet-4-50",
+      "bit": "bit-under-flat"
+    },
+    "releaseDate": "2025-08-09",
+    "description": "A high-attack Unique Line blade on a very low Under Flat bit.",
+    "image": null,
+    "visual": {
+      "primary": "#0e7490",
+      "secondary": "#cffafe",
+      "accent": "#22d3ee",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux15.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/SharkScale_4-50UF",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meteor-dragoon-3-70j",
+    "name": "Meteor Dragoon",
+    "fullName": "Meteor Dragoon 3-70J",
+    "comboCode": "3-70J",
+    "hasbroName": "Meteoroid Dragoon 3-70J",
+    "productCode": "UX-17",
+    "series": "UX",
+    "line": "UX",
+    "type": "attack",
+    "spinDirection": "left",
+    "weight": 48,
+    "parts": {
+      "blade": "blade-meteor-dragoon",
+      "ratchet": "ratchet-3-70",
+      "bit": "bit-jolt"
+    },
+    "releaseDate": "2025-12-27",
+    "description": "A left-spin Unique Line attacker with the Jolt bit.",
+    "image": null,
+    "visual": {
+      "primary": "#1e3a8a",
+      "secondary": "#c7d2fe",
+      "accent": "#facc15",
+      "blades": 4
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/ux17.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/MeteorDragoon_3-70J",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dran-brave-s6-60v",
+    "name": "Dran Brave",
+    "fullName": "Dran Brave S6-60V",
+    "comboCode": "S6-60V",
+    "hasbroName": "Courage Dran S 6-60V",
+    "productCode": "CX-01",
+    "series": "CX",
+    "line": "CX",
+    "type": "attack",
+    "spinDirection": "right",
+    "weight": 45.9,
+    "parts": {
+      "lockChip": "lock-chip-dran",
+      "mainBlade": "main-blade-brave",
+      "assistBlade": "assist-blade-slash",
+      "ratchet": "ratchet-6-60",
+      "bit": "bit-vortex"
+    },
+    "releaseDate": "2025-03-29",
+    "description": "The first Custom Line attacker, combining the Brave main blade, Slash assist blade and Vortex bit.",
+    "image": null,
+    "visual": {
+      "primary": "#2563eb",
+      "secondary": "#dbeafe",
+      "accent": "#f97316",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx01.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/DranBrave_S6-60V",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wizard-arc-r4-55lo",
+    "name": "Wizard Arc",
+    "fullName": "Wizard Arc R4-55LO",
+    "comboCode": "R4-55LO",
+    "hasbroName": "Arc Wizard R 4-55LO",
+    "productCode": "CX-02",
+    "series": "CX",
+    "line": "CX",
+    "type": "stamina",
+    "spinDirection": "right",
+    "weight": 42.3,
+    "parts": {
+      "lockChip": "lock-chip-wizard",
+      "mainBlade": "main-blade-arc",
+      "assistBlade": "assist-blade-round",
+      "ratchet": "ratchet-4-55",
+      "bit": "bit-low-orb"
+    },
+    "releaseDate": "2025-03-29",
+    "description": "A Custom Line Stamina build with the Round assist blade and Low Orb bit.",
+    "image": null,
+    "visual": {
+      "primary": "#16a34a",
+      "secondary": "#dcfce7",
+      "accent": "#a78bfa",
+      "blades": 2
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx02.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/WizardArc_R4-55LO",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "perseus-dark-b6-80w",
+    "name": "Perseus Dark",
+    "fullName": "Perseus Dark B6-80W",
+    "comboCode": "B6-80W",
+    "hasbroName": "Dark Perseus B 6-80W",
+    "productCode": "CX-03",
+    "series": "CX",
+    "line": "CX",
+    "type": "defense",
+    "spinDirection": "right",
+    "weight": null,
+    "parts": {
+      "lockChip": "lock-chip-perseus",
+      "mainBlade": "main-blade-dark",
+      "assistBlade": "assist-blade-bumper",
+      "ratchet": "ratchet-6-80",
+      "bit": "bit-wedge"
+    },
+    "releaseDate": "2025-03-29",
+    "description": "A Custom Line Defense build with the Bumper assist blade and anti-tilt Wedge bit.",
+    "image": null,
+    "visual": {
+      "primary": "#1f2937",
+      "secondary": "#d1d5db",
+      "accent": "#f43f5e",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx03.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/PerseusDark_B6-80W",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hells-reaper-t4-70k",
+    "name": "Hells Reaper",
+    "fullName": "Hells Reaper T4-70K",
+    "comboCode": "T4-70K",
+    "hasbroName": "Reaper Incendio T 4-70K",
+    "productCode": "CX-05",
+    "series": "CX",
+    "line": "CX",
+    "type": "balance",
+    "spinDirection": "right",
+    "weight": 45.1,
+    "parts": {
+      "lockChip": "lock-chip-hells",
+      "mainBlade": "main-blade-reaper",
+      "assistBlade": "assist-blade-turn",
+      "ratchet": "ratchet-4-70",
+      "bit": "bit-kick"
+    },
+    "releaseDate": "2025-04-26",
+    "description": "Rapid-smash Custom Line Balance build with the reversible Turn assist blade.",
+    "image": null,
+    "visual": {
+      "primary": "#18181b",
+      "secondary": "#fca5a5",
+      "accent": "#ef4444",
+      "blades": 4
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx05.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/HellsReaper_T4-70K",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sol-eclipse-d5-70tk",
+    "name": "Sol Eclipse",
+    "fullName": "Sol Eclipse D5-70TK",
+    "comboCode": "D5-70TK",
+    "hasbroName": "Umbra Sol D 5-70TK<!---->",
+    "productCode": "CX-09",
+    "series": "CX",
+    "line": "CX",
+    "type": "balance",
+    "spinDirection": "right",
+    "weight": null,
+    "parts": {
+      "lockChip": "lock-chip-sol",
+      "mainBlade": "main-blade-eclipse",
+      "assistBlade": "assist-blade-dual",
+      "ratchet": "ratchet-5-70",
+      "bit": "bit-trans-kick"
+    },
+    "releaseDate": "2025-09-27",
+    "description": "A Custom Line Balance build with the Dual assist blade and Trans Kick bit.",
+    "image": null,
+    "visual": {
+      "primary": "#f59e0b",
+      "secondary": "#1f2937",
+      "accent": "#fde68a",
+      "blades": 4
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx09.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/SolEclipse_D5-70TK",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wolf-hunt-f0-60db",
+    "name": "Wolf Hunt",
+    "fullName": "Wolf Hunt F0-60DB",
+    "comboCode": "F0-60DB",
+    "hasbroName": "Hunt Wolf F0-60DB<!--(Hasbro)-->",
+    "productCode": "CX-10",
+    "series": "CX",
+    "line": "CX",
+    "type": "stamina",
+    "spinDirection": "right",
+    "weight": 49.1,
+    "parts": {
+      "lockChip": "lock-chip-wolf",
+      "mainBlade": "main-blade-hunt",
+      "assistBlade": "assist-blade-free",
+      "ratchet": "ratchet-0-60",
+      "bit": "bit-disk-ball"
+    },
+    "releaseDate": "2025-11-01",
+    "description": "A Custom Line Stamina build with the Free assist blade and Disk Ball bit.",
+    "image": null,
+    "visual": {
+      "primary": "#475569",
+      "secondary": "#e2e8f0",
+      "accent": "#93c5fd",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx10.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/WolfHunt_F0-60DB",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "phoenix-flare-z9-80ww",
+    "name": "Phoenix Flare",
+    "fullName": "Phoenix Flare Z9-80WW",
+    "comboCode": "Z9-80WW",
+    "hasbroName": "Radiance Phoenix Z 9-80WW<!---->",
+    "productCode": "CX-12",
+    "series": "CX",
+    "line": "CX",
+    "type": "defense",
+    "spinDirection": "right",
+    "weight": 48.7,
+    "parts": {
+      "lockChip": "lock-chip-phoenix",
+      "mainBlade": "main-blade-flare",
+      "assistBlade": "assist-blade-zillion",
+      "ratchet": "ratchet-9-80",
+      "bit": "bit-wall-wedge"
+    },
+    "releaseDate": "2026-01-24",
+    "description": "A Custom Line Defense build with the Zillion assist blade and the Wall Wedge bit.",
+    "image": null,
+    "visual": {
+      "primary": "#ea580c",
+      "secondary": "#ffedd5",
+      "accent": "#fcd34d",
+      "blades": 3
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx12.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/PhoenixFlare_Z9-80WW",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bahamut-blitz-bk1-50i",
+    "name": "Bahamut Blitz",
+    "fullName": "Bahamut Blitz BK1-50I",
+    "comboCode": "BK1-50I",
+    "hasbroName": "Blitz Bahamut BK 1-50I",
+    "productCode": "CX-13",
+    "series": "CX",
+    "line": "CX",
+    "type": "attack",
+    "spinDirection": "right",
+    "weight": 48.1,
+    "parts": {
+      "lockChip": "lock-chip-bahamut",
+      "overBlade": "over-blade-break",
+      "metalBlade": "metal-blade-blitz",
+      "assistBlade": "assist-blade-knuckle",
+      "ratchet": "ratchet-1-50",
+      "bit": "bit-ignition"
+    },
+    "releaseDate": "2026-03-28",
+    "description": "An expanded Custom Line attacker: Break over blade, Blitz metal blade, Knuckle assist and Ignition bit.",
+    "image": null,
+    "visual": {
+      "primary": "#0f172a",
+      "secondary": "#fbbf24",
+      "accent": "#f59e0b",
+      "blades": 4
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx13.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/BahamutBlitz_BK1-50I",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "knight-fortress-gv8-70un",
+    "name": "Knight Fortress",
+    "fullName": "Knight Fortress GV8-70UN",
+    "comboCode": "GV8-70UN",
+    "hasbroName": "Armor Knight GV 8-70UN",
+    "productCode": "CX-14",
+    "series": "CX",
+    "line": "CX",
+    "type": "defense",
+    "spinDirection": "right",
+    "weight": 47.4,
+    "parts": {
+      "lockChip": "lock-chip-knight",
+      "overBlade": "over-blade-guard",
+      "metalBlade": "metal-blade-fortress",
+      "assistBlade": "assist-blade-vertical",
+      "ratchet": "ratchet-8-70",
+      "bit": "bit-under-needle"
+    },
+    "releaseDate": "2026-03-28",
+    "description": "An expanded Custom Line Defense build: Guard over blade, Fortress metal blade and Vertical assist.",
+    "image": null,
+    "visual": {
+      "primary": "#4338ca",
+      "secondary": "#e0e7ff",
+      "accent": "#a5b4fc",
+      "blades": 6
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx14.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/KnightFortress_GV8-70UN",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ragna-rage-fe4-55y",
+    "name": "Ragna Rage",
+    "fullName": "Ragna Rage FE4-55Y",
+    "comboCode": "FE4-55Y",
+    "hasbroName": "Rage Ragna FE 4-55Y",
+    "productCode": "CX-15",
+    "series": "CX",
+    "line": "CX",
+    "type": "stamina",
+    "spinDirection": "right",
+    "weight": 47.6,
+    "parts": {
+      "lockChip": "lock-chip-ragna",
+      "overBlade": "over-blade-flow",
+      "metalBlade": "metal-blade-rage",
+      "assistBlade": "assist-blade-erase",
+      "ratchet": "ratchet-4-55",
+      "bit": "bit-yielding"
+    },
+    "releaseDate": "2026-03-28",
+    "description": "An expanded Custom Line Stamina build: Flow over blade, Rage metal blade, Erase assist and Yielding bit.",
+    "image": null,
+    "visual": {
+      "primary": "#7f1d1d",
+      "secondary": "#fecaca",
+      "accent": "#fb7185",
+      "blades": 4
+    },
+    "sources": [
+      {
+        "sourceId": "takara-tomy",
+        "url": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/cx15.html",
+        "kind": "official",
+        "fields": [
+          "name",
+          "productCode",
+          "releaseDate",
+          "parts"
+        ]
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/RagnaRage_FE4-55Y",
+        "kind": "community",
+        "fields": [
+          "type",
+          "spinDirection",
+          "weight"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "description": "Type matchup modifiers applied by the simulation engine when a Beyblade of the row type strikes a Beyblade of the column type. impact scales collision strength delivered, knockback scales the push applied to the target, spinDrain scales spin loss inflicted on the target. 1.0 is neutral. These are tunable assumptions, not official rules.",
+  "modifiers": {
+    "attack": {
+      "attack": { "impact": 1.0, "knockback": 1.0, "spinDrain": 1.0 },
+      "defense": { "impact": 0.9, "knockback": 0.82, "spinDrain": 0.95 },
+      "stamina": { "impact": 1.15, "knockback": 1.2, "spinDrain": 1.1 },
+      "balance": { "impact": 1.05, "knockback": 1.0, "spinDrain": 1.0 }
+    },
+    "defense": {
+      "attack": { "impact": 1.1, "knockback": 1.12, "spinDrain": 1.0 },
+      "defense": { "impact": 1.0, "knockback": 1.0, "spinDrain": 1.0 },
+      "stamina": { "impact": 0.95, "knockback": 0.9, "spinDrain": 1.15 },
+      "balance": { "impact": 1.0, "knockback": 1.0, "spinDrain": 1.0 }
+    },
+    "stamina": {
+      "attack": { "impact": 0.9, "knockback": 0.8, "spinDrain": 1.0 },
+      "defense": { "impact": 1.0, "knockback": 1.0, "spinDrain": 1.15 },
+      "stamina": { "impact": 1.0, "knockback": 1.0, "spinDrain": 1.0 },
+      "balance": { "impact": 1.0, "knockback": 1.0, "spinDrain": 1.05 }
+    },
+    "balance": {
+      "attack": { "impact": 1.0, "knockback": 1.0, "spinDrain": 1.05 },
+      "defense": { "impact": 1.05, "knockback": 1.05, "spinDrain": 1.0 },
+      "stamina": { "impact": 1.05, "knockback": 1.05, "spinDrain": 1.15 },
+      "balance": { "impact": 1.0, "knockback": 1.0, "spinDrain": 1.0 }
+    }
+  }
+}

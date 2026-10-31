@@ -1,0 +1,351 @@
+[
+  {
+    "id": "assist-blade-slash",
+    "category": "assistBlade",
+    "name": "Slash",
+    "abbreviation": "S",
+    "type": "attack",
+    "weight": 4.7,
+    "height": 50,
+    "stats": {
+      "attack": 20,
+      "defense": 10,
+      "stamina": 10
+    },
+    "debutProductCode": "CX-01",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Slash",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Slash",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-round",
+    "category": "assistBlade",
+    "name": "Round",
+    "abbreviation": "R",
+    "type": "stamina",
+    "weight": 4.7,
+    "height": 60,
+    "stats": {
+      "attack": 10,
+      "defense": 10,
+      "stamina": 20
+    },
+    "debutProductCode": "CX-02",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Round",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Round",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-bumper",
+    "category": "assistBlade",
+    "name": "Bumper",
+    "abbreviation": "B",
+    "type": "defense",
+    "weight": 5.3,
+    "height": 60,
+    "stats": {
+      "attack": 10,
+      "defense": 20,
+      "stamina": 10
+    },
+    "debutProductCode": "CX-03",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Bumper",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Bumper",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-turn",
+    "category": "assistBlade",
+    "name": "Turn",
+    "abbreviation": "T",
+    "type": "balance",
+    "weight": 5.8,
+    "height": 60,
+    "stats": {
+      "attack": 10,
+      "defense": 10,
+      "stamina": 20
+    },
+    "debutProductCode": "CX-05",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Turn",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Turn",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-dual",
+    "category": "assistBlade",
+    "name": "Dual",
+    "abbreviation": "D",
+    "type": "balance",
+    "weight": 5.9,
+    "stats": {
+      "attack": null,
+      "defense": null,
+      "stamina": null
+    },
+    "debutProductCode": "CX-09",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Dual",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Dual",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-free",
+    "category": "assistBlade",
+    "name": "Free",
+    "abbreviation": "F",
+    "type": "stamina",
+    "weight": 5.8,
+    "height": 60,
+    "stats": {
+      "attack": 5,
+      "defense": 20,
+      "stamina": 25
+    },
+    "debutProductCode": "CX-10",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Free",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Free",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-zillion",
+    "category": "assistBlade",
+    "name": "Zillion",
+    "abbreviation": "Z",
+    "type": "defense",
+    "weight": 6.6,
+    "height": 80,
+    "stats": {
+      "attack": 22,
+      "defense": 15,
+      "stamina": 3
+    },
+    "debutProductCode": "CX-12",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Zillion",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Zillion",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-knuckle",
+    "category": "assistBlade",
+    "name": "Knuckle",
+    "abbreviation": "K",
+    "type": "attack",
+    "weight": 4.9,
+    "height": 50,
+    "stats": {
+      "attack": 30,
+      "defense": 5,
+      "stamina": 5
+    },
+    "debutProductCode": "CX-13",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Knuckle",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Knuckle",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-vertical",
+    "category": "assistBlade",
+    "name": "Vertical",
+    "abbreviation": "V",
+    "type": "defense",
+    "weight": 5.3,
+    "height": 60,
+    "stats": {
+      "attack": 10,
+      "defense": 25,
+      "stamina": 5
+    },
+    "debutProductCode": "CX-14",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Vertical",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Vertical",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "assist-blade-erase",
+    "category": "assistBlade",
+    "name": "Erase",
+    "abbreviation": "E",
+    "type": "stamina",
+    "weight": 6,
+    "height": 70,
+    "stats": {
+      "attack": 10,
+      "defense": 5,
+      "stamina": 25
+    },
+    "debutProductCode": "CX-15",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Erase",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Assist_Blade_-_Erase",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  }
+]

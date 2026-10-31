@@ -1,0 +1,886 @@
+[
+  {
+    "id": "ratchet-3-60",
+    "category": "ratchet",
+    "name": "3-60",
+    "type": null,
+    "weight": 6.4,
+    "height": 60,
+    "stats": {
+      "attack": 15,
+      "defense": 9,
+      "stamina": 6
+    },
+    "debutProductCode": "BX-01",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_3-60",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_3-60",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-4-60",
+    "category": "ratchet",
+    "name": "4-60",
+    "type": null,
+    "weight": 6.3,
+    "height": 60,
+    "stats": {
+      "attack": 11,
+      "defense": 13,
+      "stamina": 6
+    },
+    "debutProductCode": "BX-02",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_4-60",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_4-60",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-4-80",
+    "category": "ratchet",
+    "name": "4-80",
+    "type": null,
+    "weight": 7,
+    "height": 80,
+    "stats": {
+      "attack": 11,
+      "defense": 11,
+      "stamina": 8
+    },
+    "debutProductCode": "BX-03",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_4-80",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_4-80",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-3-80",
+    "category": "ratchet",
+    "name": "3-80",
+    "type": null,
+    "weight": 7.1,
+    "height": 80,
+    "stats": {
+      "attack": 15,
+      "defense": 7,
+      "stamina": 8
+    },
+    "debutProductCode": "BX-04",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_3-80",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_3-80",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-5-60",
+    "category": "ratchet",
+    "name": "5-60",
+    "type": null,
+    "weight": 6.6,
+    "height": 60,
+    "stats": {
+      "attack": 12,
+      "defense": 9,
+      "stamina": 9
+    },
+    "debutProductCode": "BX-15",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_5-60",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_5-60",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-9-60",
+    "category": "ratchet",
+    "name": "9-60",
+    "type": null,
+    "weight": 6.2,
+    "height": 60,
+    "stats": {
+      "attack": 13,
+      "defense": 10,
+      "stamina": 7
+    },
+    "debutProductCode": "BX-23",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_9-60",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_9-60",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-4-70",
+    "category": "ratchet",
+    "name": "4-70",
+    "type": null,
+    "weight": 6.4,
+    "height": 70,
+    "stats": {
+      "attack": 11,
+      "defense": 12,
+      "stamina": 7
+    },
+    "debutProductCode": "BX-31",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_4-70",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_4-70",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-2-60",
+    "category": "ratchet",
+    "name": "2-60",
+    "type": null,
+    "weight": 6.2,
+    "height": 60,
+    "stats": {
+      "attack": null,
+      "defense": null,
+      "stamina": null
+    },
+    "debutProductCode": "BX-34",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_2-60",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_2-60",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-7-60",
+    "category": "ratchet",
+    "name": "7-60",
+    "type": null,
+    "weight": 7.1,
+    "height": 60,
+    "stats": {
+      "attack": 8,
+      "defense": 14,
+      "stamina": 8
+    },
+    "debutProductCode": "UX-06",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_7-60",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_7-60",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-3-70",
+    "category": "ratchet",
+    "name": "3-70",
+    "type": null,
+    "weight": 6.4,
+    "height": 70,
+    "stats": {
+      "attack": 15,
+      "defense": 8,
+      "stamina": 7
+    },
+    "debutProductCode": "UX-02",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_3-70",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_3-70",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-m-85",
+    "category": "ratchet",
+    "name": "M-85",
+    "type": null,
+    "weight": 10.6,
+    "height": 85,
+    "stats": {
+      "attack": 8,
+      "defense": 19,
+      "stamina": 13
+    },
+    "debutProductCode": "BX-44",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_M-85",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_M-85",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-6-70",
+    "category": "ratchet",
+    "name": "6-70",
+    "type": null,
+    "weight": 6.3,
+    "height": 70,
+    "stats": {
+      "attack": 14,
+      "defense": 7,
+      "stamina": 9
+    },
+    "debutProductCode": "BX-45",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_6-70",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_6-70",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-4-50",
+    "category": "ratchet",
+    "name": "4-50",
+    "type": null,
+    "weight": 5.9,
+    "height": 50,
+    "stats": {
+      "attack": 12,
+      "defense": 13,
+      "stamina": 5
+    },
+    "debutProductCode": "UX-15",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_4-50",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_4-50",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-1-60",
+    "category": "ratchet",
+    "name": "1-60",
+    "type": null,
+    "weight": 6,
+    "height": 60,
+    "stats": {
+      "attack": 17,
+      "defense": 9,
+      "stamina": 4
+    },
+    "debutProductCode": "UX-01",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_1-60",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_1-60",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-5-70",
+    "category": "ratchet",
+    "name": "5-70",
+    "type": null,
+    "weight": 6.7,
+    "height": 70,
+    "stats": {
+      "attack": 12,
+      "defense": 8,
+      "stamina": 10
+    },
+    "debutProductCode": "UX-03",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_5-70",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_5-70",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-1-80",
+    "category": "ratchet",
+    "name": "1-80",
+    "type": null,
+    "weight": 6.7,
+    "height": 80,
+    "stats": {
+      "attack": 17,
+      "defense": 4,
+      "stamina": 9
+    },
+    "debutProductCode": "UX-05",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_1-80",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_1-80",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-9-70",
+    "category": "ratchet",
+    "name": "9-70",
+    "type": null,
+    "weight": 6.3,
+    "height": 70,
+    "stats": {
+      "attack": 13,
+      "defense": 10,
+      "stamina": 7
+    },
+    "debutProductCode": "UX-07",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_9-70",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_9-70",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-2-70",
+    "category": "ratchet",
+    "name": "2-70",
+    "type": null,
+    "weight": 6.3,
+    "height": 70,
+    "stats": {
+      "attack": 10,
+      "defense": 12,
+      "stamina": 8
+    },
+    "debutProductCode": "UX-09",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_2-70",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_2-70",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-0-70",
+    "category": "ratchet",
+    "name": "0-70",
+    "type": null,
+    "weight": 7,
+    "height": 70,
+    "stats": {
+      "attack": 3,
+      "defense": 13,
+      "stamina": 14
+    },
+    "debutProductCode": "UX-14",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_0-70",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_0-70",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-6-60",
+    "category": "ratchet",
+    "name": "6-60",
+    "type": null,
+    "weight": 6.1,
+    "height": 60,
+    "stats": {
+      "attack": 14,
+      "defense": 8,
+      "stamina": 8
+    },
+    "debutProductCode": "CX-01",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_6-60",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_6-60",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-4-55",
+    "category": "ratchet",
+    "name": "4-55",
+    "type": null,
+    "weight": 4.8,
+    "height": 55,
+    "stats": {
+      "attack": 7,
+      "defense": 11,
+      "stamina": 12
+    },
+    "debutProductCode": "CX-02",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_4-55",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_4-55",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-6-80",
+    "category": "ratchet",
+    "name": "6-80",
+    "type": null,
+    "weight": 6.9,
+    "height": 80,
+    "stats": {
+      "attack": 14,
+      "defense": 6,
+      "stamina": 10
+    },
+    "debutProductCode": "CX-03",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_6-80",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_6-80",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-0-60",
+    "category": "ratchet",
+    "name": "0-60",
+    "type": null,
+    "weight": 6.8,
+    "height": 60,
+    "stats": {
+      "attack": 3,
+      "defense": 14,
+      "stamina": 13
+    },
+    "debutProductCode": "CX-10",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_0-60",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_0-60",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-9-80",
+    "category": "ratchet",
+    "name": "9-80",
+    "type": null,
+    "weight": 6.9,
+    "height": 80,
+    "stats": {
+      "attack": 13,
+      "defense": 10,
+      "stamina": 7
+    },
+    "debutProductCode": "BX-27",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_9-80",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_9-80",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-1-50",
+    "category": "ratchet",
+    "name": "1-50",
+    "type": null,
+    "weight": 5.7,
+    "height": 50,
+    "stats": {
+      "attack": 18,
+      "defense": 9,
+      "stamina": 3
+    },
+    "debutProductCode": "CX-13",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_1-50",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_1-50",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  },
+  {
+    "id": "ratchet-8-70",
+    "category": "ratchet",
+    "name": "8-70",
+    "type": null,
+    "weight": 7.7,
+    "height": 70,
+    "stats": {
+      "attack": 8,
+      "defense": 10,
+      "stamina": 12
+    },
+    "debutProductCode": "CX-14",
+    "sources": [
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_8-70",
+        "kind": "official-catalogued",
+        "fields": [
+          "stats"
+        ],
+        "note": "Manufacturer part specs as catalogued by the community wiki."
+      },
+      {
+        "sourceId": "beyblade-wiki",
+        "url": "https://beyblade.fandom.com/wiki/Ratchet_-_8-70",
+        "kind": "community",
+        "fields": [
+          "weight"
+        ],
+        "note": "Community-measured weight."
+      }
+    ]
+  }
+]
